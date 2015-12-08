@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{5BBA9782-4B5D-C2AD-8357-DA99E5B2ECEC}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Painter",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
